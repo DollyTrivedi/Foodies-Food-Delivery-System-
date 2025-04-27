@@ -37,7 +37,7 @@ The **Food Delivery System Website** is an online platform that allows users to 
 3. Set up the database using the provided SQL file.
 4. Configure database credentials in `config.php`.
 5. Start the local server (e.g., using XAMPP or WAMP).
-6. Access the application at `http://localhost/food-delivery-system`
+6. Access the application at `http://localhost/foodies`
 
 ## Contributing
 Feel free to fork the repository and contribute! Submit a pull request with any enhancements or bug fixes.
